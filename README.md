@@ -39,6 +39,7 @@ Antonio Guilherme
 
 - [GitHub](https://github.com/gui-93 )
 - [LinkedIn](https://www.linkedin.com/in/antonio-guilherme-almeida-santos/)
+- [Medium](https://medium.com/@g93.almeida)
 -  Email: g93.almeida@gmail.com
 
 ## 🙏 Agradecimentos
